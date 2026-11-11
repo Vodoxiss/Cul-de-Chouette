@@ -279,4 +279,3 @@ Lancer `chcp 65001` avant le programme, ou utiliser l'interface graphique.
 
 - Les règles sont adaptées de la page Wikilivres « Boîte à jeux/Le cul de chouette ». Le texte intégré au programme est un résumé reformulé. Les textes de Wikilivres sont publiés sous licence libre, qui demande en général de citer la source. Vérifier les conditions sur la page d'origine avant toute republication.
 - Les noms des règles et les cris viennent de la série Kaamelott, créée par Alexandre Astier. Ce projet est un projet de fan, sans lien avec les auteurs ou les ayants droit de la série.
-- Une publication commerciale (par exemple sur Steam) demande de s'assurer des droits sur ces noms et ces cris. Consulter un juriste en propriété intellectuelle avant de vendre le programme.
