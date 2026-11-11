@@ -52,7 +52,7 @@ Le jeu se joue de 2 à 16 joueurs. Dans le mode standard, le premier joueur qui 
 ## Installation
 
 ```bash
-git clone https://github.com/<utilisateur>/<depot>.git
+git clone https://github.com/Vodoxiss/Cul-de-Chouette
 cd <depot>
 python -m pip install pillow
 ```
